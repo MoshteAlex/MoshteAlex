@@ -1,15 +1,5 @@
 <h1>Mwangi Alex here 👋
-#include <stdio.h>
-   typedef struct 
-     {
-       Char Languages [C,embedded C, C++, LATEX];
-       Char Microcontrollers[STM32,Arduino,];
-     } Skills&Interests;
-  
-  main(void)
-  {
-  printf();
-  }
+
  
 
 <!--
