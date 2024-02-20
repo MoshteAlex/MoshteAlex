@@ -1,6 +1,16 @@
 <h1>Mwangi Alex here 👋
-<h2>A passionate electronics engineer</h2>
-
+#include <stdio.h>
+   typedef struct 
+     {
+       Char Languages [C,embedded C, C++, LATEX];
+       Char Microcontrollers[STM32,Arduino,];
+     } Skills&Interests;
+  
+  main(void)
+  {
+  printf();
+  }
+ 
 
 <!--
 **MoshteAlex/MoshteAlex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
