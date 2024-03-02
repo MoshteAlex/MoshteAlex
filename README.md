@@ -2,12 +2,12 @@
 
 
 <details>
-<summary>My top languages</summary>
+<summary>Portfollio</summary>
 
-|              Skills/Knowhow & Languages              | Rank Out of 10 |
+|              Skills/Knowhow & Languages              | Rank / 10 |
 |-----------------------------------------------------:|-----------     |
 | PCB design:Kicad, Flux                               | 6              |
-| Embedded C                                           | 4              |
+| Embedded C/ C++                                      | 4              |
 | STM32 Cube IDE                                       | 3              |
 | Keil uVisison                                        | 1              |
 | ST Architecture                                      | 5              |
