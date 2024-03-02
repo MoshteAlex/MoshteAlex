@@ -20,7 +20,7 @@ I am an Embedded Systems Engineer from Kenya.
 
 ### Portfolio 
 
-|              Skills                                  | Rank / 10 |
+|              Skill/Tool                              | Rank / 10 |
 |-----------------------------------------------------:|-----------     |
 | PCB design:Kicad, Flux                               | 6              |
 | Embedded C/ C++                                      | 4              |
