@@ -16,8 +16,8 @@
 | Embedded C/ C++                                      | 4              |
 | STM32 Cube IDE                                       | 3              |
 | Keil uVisison                                        | 1              |
-| ST Architecture                                      | 5              |
-| Cortex M4                                            | 4              |
+| ST Architecture/Cortex M4                            | 5              |
+| Latex                                                | 4              |
 
 
 ### :man_technologist: Me :
