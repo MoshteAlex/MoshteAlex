@@ -29,11 +29,11 @@
 ---
 
 ### :man_technologist: Me :
-I am an Embedded Systems Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
+I am an Embedded Systems Engineer from Kenya.
 
-- :telescope: I learn skills and create projects that I showcase here and on LinkedIn.
+- :: I learn skills and create projects that I showcase here and on LinkedIn.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-MwangiAlex-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mwangi-alex/)
+- ::How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-MwangiAlex-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mwangi-alex/)
 
 
 
