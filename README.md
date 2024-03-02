@@ -31,9 +31,9 @@
 ### :man_technologist: Me :
 I am an Embedded Systems Engineer from Kenya.
 
-- :: I learn skills and create projects that I showcase here and on LinkedIn.
+- I learn skills and create projects that I showcase here and on LinkedIn.
 
-- ::How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-MwangiAlex-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mwangi-alex/)
+- How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-MwangiAlex-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mwangi-alex/)
 
 
 
