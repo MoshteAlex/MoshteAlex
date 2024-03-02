@@ -1,6 +1,6 @@
 
 
-<h1>Hi, Mwangi Alex here 👋</h1>
+<h1>Hi, Mwangi here 👋</h1>
 
  <div id="header" align="center">
   <img src="https://media.giphy.com/media/cyBjN2W4SQGFT4SscZ/giphy.gif" width="150"/>
