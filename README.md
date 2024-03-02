@@ -21,7 +21,7 @@ My focus particularly lies in embedded software development, IoT, PCB design and
 | Cortex M4                                            | 4              |
 
  <div id="header" align="center">
-  <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="150"/>
+  <img src="https://media.giphy.com/media/cyBjN2W4SQGFT4SscZ/giphy.gif" width="150"/>
 </div>
 
 ---
