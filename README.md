@@ -14,8 +14,7 @@ My focus particularly lies in embedded software development, IoT, PCB design and
 - How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-MwangiAlex-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mwangi-alex/)
 
 
-
-### Portfolio 
+ **Portfolio** 
 
 |              Skill/Tool/Language                     | Rank / 10 |
 |-----------------------------------------------------:|-----------     |
