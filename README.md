@@ -1,6 +1,6 @@
 
 
-Hi, Mwangi Alex here 👋
+<h1> Hi, Mwangi Alex here 👋
  
  <div id="header" align="center">
   <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="100"/>
@@ -10,6 +10,7 @@ Hi, Mwangi Alex here 👋
 
 <details>
 <summary>Portfolio</summary>
+ 
 |              Skills                                  | Rank / 10 |
 |-----------------------------------------------------:|-----------     |
 | PCB design:Kicad, Flux                               | 6              |
@@ -18,6 +19,8 @@ Hi, Mwangi Alex here 👋
 | Keil uVisison                                        | 1              |
 | ST Architecture                                      | 5              |
 | Cortex M4                                            | 4              |
+
+ 
 </details>
 
 ### :man_technologist: Me :
