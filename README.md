@@ -4,7 +4,7 @@
 <details>
 <summary>Portfollio</summary>
 
-|              Skills/Knowhow & Languages              | Rank / 10 |
+|              Skills/Knowhow              | Rank / 10 |
 |-----------------------------------------------------:|-----------     |
 | PCB design:Kicad, Flux                               | 6              |
 | Embedded C/ C++                                      | 4              |
