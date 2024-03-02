@@ -2,13 +2,6 @@
 
 <h1>Hi, Mwangi Alex here 👋</h1>
 
-
- <div id="header" align="center">
-  <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="200"/>
-</div>
-
----
-
 ### :man_technologist: Me :
 I am an Embedded Systems Engineer from Kenya.
 
@@ -28,6 +21,12 @@ I am an Embedded Systems Engineer from Kenya.
 | Keil uVisison                                        | 1              |
 | ST Architecture                                      | 5              |
 | Cortex M4                                            | 4              |
+
+ <div id="header" align="center">
+  <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="150"/>
+</div>
+
+---
 
 
 <!--
