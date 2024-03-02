@@ -2,9 +2,6 @@
 
 <h1>Hi 👋, Mwangi here </h1>
 
- 
----
-
  ### **Portfolio** 
 
 |              Skill/Tool/Language                     | Rank / 10 |
