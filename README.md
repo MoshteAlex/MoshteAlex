@@ -24,7 +24,7 @@ My focus particularly lies in embedded software development, IoT, PCB design and
 
 - 🔭 I’m currently designing an sEMG data acquisition unit in Flux.
 - 🌱 I’m currently learning emdedded C, ARM cortex M4 / ST achitecture and how to navigate the Keil uVision IDE. 
-- 👯 I’m looking to collaborate on any embedded system project.
+- 👯 I’m looking to collaborate on any embedded systems project.
 - 📫 How to reach me: alexmoshte@gmail.com
 - ⚡ Fun fact: I have no particular favorite genre of music, I just like good music.
 
