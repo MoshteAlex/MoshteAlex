@@ -3,7 +3,7 @@
 <h1>Hi, Mwangi Alex here 👋</h1>
 
 ### :man_technologist: Me :
-I am an Embedded Systems Engineer from Kenya.
+My focus particularly lies in embedded software development, IoT, PCB design and their derivatives. I am also a physics enthusiast studying it for fun. I consider myself to be an electronics engineer dedicated to the pursuit of realizing a sustainably efficient world through technology and more so in electronics engineering.
 
 - I learn skills and create projects that I showcase here and on LinkedIn.
 
