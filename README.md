@@ -27,8 +27,8 @@ My focus particularly lies in embedded software development, IoT, PCB design and
 - 👯 I’m looking to collaborate on any embdedded system project.
 - 📫 How to reach me: alexmoshte@gmail.com
 - ⚡ Fun fact: I have no particular favorite genre of music, I just like good music.
-  
-- <div id="header" align="center">
+
+<div id="header" align="center">
   <img src="https://media.giphy.com/media/cyBjN2W4SQGFT4SscZ/giphy.gif" width="150"/>
 </div>
 
