@@ -17,7 +17,8 @@ I am an Embedded Systems Engineer from Kenya.
 - How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-MwangiAlex-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mwangi-alex/)
 
 
-**My Portfollio**
+
+### Portfolio 
 
 |              Skills                                  | Rank / 10 |
 |-----------------------------------------------------:|-----------     |
