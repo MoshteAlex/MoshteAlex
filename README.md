@@ -1,9 +1,16 @@
 
 
 
+<h1> Hi, Mwangi Alex here 👋
+ 
+ <div id="header" align="center">
+  <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="100"/>
+</div>
+
+---
+
 <details>
 <summary>Portfolio</summary>
-
 |              Skills                                  | Rank / 10 |
 |-----------------------------------------------------:|-----------     |
 | PCB design:Kicad, Flux                               | 6              |
@@ -12,16 +19,7 @@
 | Keil uVisison                                        | 1              |
 | ST Architecture                                      | 5              |
 | Cortex M4                                            | 4              |
-
 </details>
-
-<h1> Hi 👋
- 
- <div id="header" align="center">
-  <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="100"/>
-</div>
-
----
 
 ### :man_technologist: Me :
 I am an Embedded Systems Engineer from Kenya.
