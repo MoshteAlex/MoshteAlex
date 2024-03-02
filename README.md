@@ -1,6 +1,4 @@
 <h1>Mwangi Alex here 👋
-%<details>
-%<summary>Skills</summary>
 
 |              Skills/Knowhow & Languages              | Rank Out of 10 |
 |-----------------------------------------------------:|-----------     |
@@ -10,7 +8,7 @@
 | Keil uVisison                                        | 1              |
 | ST Architecture                                      | 5              |
 | Cortex M4                                            | 4              |
-%</details>
+
  
 
 <!--
