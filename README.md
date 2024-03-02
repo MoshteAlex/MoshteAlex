@@ -1,5 +1,16 @@
 <h1>Mwangi Alex here 👋
+<details>
+<summary>Skills</summary>
 
+|              Skills/Knowhow & Languages              | Rank Out of 10 |
+|-----------------------------------------------------:|-----------     |
+| PCB design:
+ Kicad, Flux                                           | 6              |
+| Embedded Sofware development:
+ C, C++, Keil, Cube IDE                                | 4              |
+| ST Architecture                                      | 5              |
+| Cortex M4                                            | 4              |
+</details>
  
 
 <!--
