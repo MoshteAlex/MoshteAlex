@@ -22,10 +22,10 @@ My focus particularly lies in embedded software development, IoT, PCB design and
 
 <!-- How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-MwangiAlex-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mwangi-alex/)-->
 
-- 🔭 I’m currently designing an sEMG data acquisition unit in Flux
-- 🌱 I’m currently learning emdedded C, ARM cortex M4 / ST achitecture and how to navigate the Keil uVision IDE 
-- 👯 I’m looking to collaborate on any embdedded system project
-- 📫 How to reach me: alexmoshte@gmail.com
+- 🔭 I’m currently designing an sEMG data acquisition unit in Flux.
+- 🌱 I’m currently learning emdedded C, ARM cortex M4 / ST achitecture and how to navigate the Keil uVision IDE. 
+- 👯 I’m looking to collaborate on any embdedded system project.
+- 📫 How to reach me: alexmoshte@gmail.com.
 - ⚡ Fun fact: I have no particular favorite genre of music, I just like good music.
   
 - <div id="header" align="center">
