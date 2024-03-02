@@ -17,7 +17,7 @@
 | STM32 Cube IDE                                       | 3              |
 | Keil uVisison                                        | 1              |
 | ST Architecture/Cortex M4                            | 5              |
-| Latex                                                | 4              |
+| LaTEX                                               | 4              |
 
 
 ### :man_technologist: Me :
