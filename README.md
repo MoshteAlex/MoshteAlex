@@ -17,7 +17,7 @@ My focus particularly lies in embedded software development, IoT, PCB design and
 
 ### Portfolio 
 
-|              Skill/Tool                              | Rank / 10 |
+|              Skill/Tool/Language                     | Rank / 10 |
 |-----------------------------------------------------:|-----------     |
 | PCB design:Kicad, Flux                               | 6              |
 | Embedded C/ C++                                      | 4              |
