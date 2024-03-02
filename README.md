@@ -13,7 +13,7 @@
 | ST Architecture                                      | 5              |
 | Cortex M4                                            | 4              |
 
-<details>
+</details>
  
 
 <!--
