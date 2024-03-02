@@ -8,12 +8,6 @@
 
 ---
 
-### :man_technologist: Me :
-My focus particularly lies in embedded software development, IoT, PCB design and their derivatives. I am also a physics enthusiast studying it for fun. I consider myself to be an electronics engineer dedicated to the pursuit of realizing a sustainably efficient world through technology and more so in electronics engineering. I learn skills and create projects that I showcase here and on LinkedIn.
-
-- How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-MwangiAlex-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mwangi-alex/)
-
-
  **Portfolio** 
 
 |              Skill/Tool/Language                     | Rank / 10 |
@@ -25,6 +19,11 @@ My focus particularly lies in embedded software development, IoT, PCB design and
 | ST Architecture                                      | 5              |
 | Cortex M4                                            | 4              |
 
+
+### :man_technologist: Me :
+My focus particularly lies in embedded software development, IoT, PCB design and their derivatives. I am also a physics enthusiast studying it for fun. I consider myself to be an electronics engineer dedicated to the pursuit of realizing a sustainably efficient world through technology and more so in electronics engineering. I learn skills and create projects that I showcase here and on LinkedIn.
+
+- How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-MwangiAlex-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mwangi-alex/)
 
 
 
