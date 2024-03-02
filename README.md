@@ -10,9 +10,6 @@
 
 ---
 
-<details>
-<summary>Portfolio</summary>
- 
 |              Skills                                  | Rank / 10 |
 |-----------------------------------------------------:|-----------     |
 | PCB design:Kicad, Flux                               | 6              |
@@ -22,8 +19,6 @@
 | ST Architecture                                      | 5              |
 | Cortex M4                                            | 4              |
 
- 
-</details>
 
 ### :man_technologist: Me :
 I am an Embedded Systems Engineer from Kenya.
