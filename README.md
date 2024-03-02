@@ -3,15 +3,11 @@
 <h1>Hi, Mwangi Alex here 👋</h1>
 
 
- 
  <div id="header" align="center">
   <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="100"/>
 </div>
 
 ---
-
-
-
 
 ### :man_technologist: Me :
 I am an Embedded Systems Engineer from Kenya.
@@ -21,7 +17,7 @@ I am an Embedded Systems Engineer from Kenya.
 - How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-MwangiAlex-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mwangi-alex/)
 
 
-
+**My Portfollio**
 
 |              Skills                                  | Rank / 10 |
 |-----------------------------------------------------:|-----------     |
@@ -31,6 +27,8 @@ I am an Embedded Systems Engineer from Kenya.
 | Keil uVisison                                        | 1              |
 | ST Architecture                                      | 5              |
 | Cortex M4                                            | 4              |
+
+
 <!--
 **MoshteAlex/MoshteAlex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
