@@ -10,14 +10,7 @@
 
 ---
 
-|              Skills                                  | Rank / 10 |
-|-----------------------------------------------------:|-----------     |
-| PCB design:Kicad, Flux                               | 6              |
-| Embedded C/ C++                                      | 4              |
-| STM32 Cube IDE                                       | 3              |
-| Keil uVisison                                        | 1              |
-| ST Architecture                                      | 5              |
-| Cortex M4                                            | 4              |
+
 
 
 ### :man_technologist: Me :
@@ -30,6 +23,14 @@ I am an Embedded Systems Engineer from Kenya.
 
 
 
+|              Skills                                  | Rank / 10 |
+|-----------------------------------------------------:|-----------     |
+| PCB design:Kicad, Flux                               | 6              |
+| Embedded C/ C++                                      | 4              |
+| STM32 Cube IDE                                       | 3              |
+| Keil uVisison                                        | 1              |
+| ST Architecture                                      | 5              |
+| Cortex M4                                            | 4              |
 <!--
 **MoshteAlex/MoshteAlex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
