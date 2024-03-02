@@ -1,6 +1,8 @@
 <h1>Mwangi Alex here 👋
 
 
+<details>
+<summary>My top languages</summary>
 
 |              Skills/Knowhow & Languages              | Rank Out of 10 |
 |-----------------------------------------------------:|-----------     |
@@ -11,6 +13,7 @@
 | ST Architecture                                      | 5              |
 | Cortex M4                                            | 4              |
 
+<details>
  
 
 <!--
