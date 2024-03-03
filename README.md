@@ -3,7 +3,7 @@
 <h1>Hi 👋, Mwangi here </h1>
 
 <details>
-<summary> Portfolio </summary>
+<summary> My portfolio </summary>
   
 |              **Skill/Tool/Language**                     | **Rank / 10** |
 |-----------------------------------------------------:|-----------     |
