@@ -4,7 +4,7 @@
 
 <details>
 <summary> Portfolio </summary>
-<br>
+  
 |              Skill/Tool/Language                     | Rank / 10 |
 |-----------------------------------------------------:|-----------     |
 | PCB design:Kicad, Flux                               | 6              |
