@@ -2,8 +2,9 @@
 
 <h1>Hi 👋, Mwangi here </h1>
 
- ### **Portfolio** 
-
+<details>
+<summary> **My portfolio** </summary>
+<br>
 |              Skill/Tool/Language                     | Rank / 10 |
 |-----------------------------------------------------:|-----------     |
 | PCB design:Kicad, Flux                               | 6              |
@@ -12,6 +13,9 @@
 | Keil uVisison                                        | 1              |
 | ST Architecture/Cortex M4                            | 5              |
 | LaTEX                                                | 4              |
+</details> 
+
+
 
 
 ### :man_technologist: Me :
