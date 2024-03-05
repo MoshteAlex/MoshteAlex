@@ -20,7 +20,7 @@
 typedef struct
 {
    char Programming_Languages[];
-   Char Embedded_software_development_tools[];
+   char Embedded_software_development_tools[];
    char PCB_design_softwares[];
    char Knowhow[];
 } Portfolio;
