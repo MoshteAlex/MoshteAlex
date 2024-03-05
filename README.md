@@ -44,6 +44,8 @@ int main (void)
  uint32_t * arrB=NULL;
  arrK=& MwangiAlex.Knowhow[0];
          arrK[2]={ARM_Cortex_M4, STM32_Architecture};
+
+return 0;
 }
 ```
 </details> 
