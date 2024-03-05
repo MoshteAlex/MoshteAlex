@@ -16,6 +16,7 @@
 | LaTEX                                                | 4              |
 -->
 
+Written in embedded C,
 
 ```C
 typedef struct
