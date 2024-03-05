@@ -16,7 +16,7 @@
 | LaTEX                                                | 4              |
 -->
 
-```Embedded C
+``` C++
 typedef struct
 {  char Education;
    char Programming_Languages[];
