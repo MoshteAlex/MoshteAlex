@@ -4,7 +4,7 @@
 
 <details>
 <summary> My portfolio </summary>
-  
+<!--  
 |              **Skill/Tool/Language**                     | **Rank / 10** |
 |-----------------------------------------------------:|-----------     |
 | PCB design:Kicad, Flux                               | 6              |
@@ -14,7 +14,35 @@
 | ST Architecture/Cortex M4                            | 5              |
 | LaTEX                                                | 4              |
 </details> 
+-->
 
+```
+typedef struct
+{
+   char Programming_Languages[2];
+   Char Embedded_development_softwares[];
+   char PCB_design_softwares[2];
+   char Books[5];
+} Portfolio;
+
+int main (void)
+{
+   Portfolio MwangiAlex;
+   uint32_t * arrPL=NULL;
+   arrPL=& MwangiAlex.Programming_Languages[0];
+
+  uint32_t * arrEDS=NULL;
+  arrEDS=& MwangiAlex.Embedded_development_softwares[0];
+
+  uint32_t * arrPDS=NULL;
+  arrPDS=& MwangiAlex.PCB_design_softwares[0];
+
+  uint32_t * arrB=NULL;
+  arrB=& MwangiAlex.Books[0];
+
+   MwangiAlex= {}
+}
+```
 
 
 
