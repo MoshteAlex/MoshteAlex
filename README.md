@@ -1,10 +1,10 @@
 
 
 <h1>Hi 👋, Mwangi here </h1>
-
+<!--
 <details>
 <summary> My portfolio </summary>
-   
+
 |              **Skill/Tool/Language**                     | **Rank / 10** |
 |-----------------------------------------------------:|-----------     |
 | PCB design:Kicad, Flux                               | 6              |
@@ -14,6 +14,7 @@
 | ST Architecture/Cortex M4                            | 5              |
 | LaTEX                                                | 4              |
 </details> 
+-->
 
 Written in Embedded C code, 
 
@@ -43,7 +44,7 @@ int main (void)
 
  uint32_t * arrB=NULL;
  arrK=& MwangiAlex.Knowhow[0];
-         arrK[2]={ARM_Cortex_M4, STM32_Architecture, };
+         arrK[2]={ARM_Cortex_M4, STM32_Architecture};
 }
 ```
 
