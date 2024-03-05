@@ -40,7 +40,7 @@ int main (void)
  arrPDS=& MwangiAlex.PCB_design_softwares[0];
          arrPDS[2]={Kicad, Flux};
 
- uint32_t * arrB=NULL;
+ uint32_t * arrK=NULL;
  arrK=& MwangiAlex.Knowhow[0];
          arrK[2]={ARM_Cortex_M4, STM32_Architecture};
 
