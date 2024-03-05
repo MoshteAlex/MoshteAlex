@@ -16,7 +16,7 @@
 | LaTEX                                                | 4              |
 
 -->
-</details> 
+
 
 Written in Embedded C code, 
 
@@ -49,7 +49,7 @@ int main (void)
          arrK[2]={ARM_Cortex_M4, STM32_Architecture};
 }
 ```
-
+</details> 
 
 
 ### :man_technologist: Me :
