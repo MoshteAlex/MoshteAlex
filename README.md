@@ -35,9 +35,9 @@ int main (void)
  arrPL=& MwangiAlex.Programming_Languages[0];
          arrPL[3]= {Embedded_C, C++, LaTEX, MATLAB};  
 
- uint32_t * arrEDS=NULL;
+ uint32_t * arrESDT=NULL;
  arrEDS=& MwangiAlex.Embedded_software_development_tools[0];
-         arrEDS[2]={Keil_uvision, STM32CubeIDE};
+         arrESDT[2]={Keil_uvision, STM32CubeIDE};
 
  uint32_t * arrPDS=NULL;
  arrPDS=& MwangiAlex.PCB_design_softwares[0];
