@@ -3,7 +3,7 @@
 <h1>Hi 👋, Mwangi here </h1>
 
 <details>
-<summary> My portfolio </summary>
+<summary> My portfolio in Embedded C code </summary>
 <!--  
 |              **Skill/Tool/Language**                     | **Rank / 10** |
 |-----------------------------------------------------:|-----------     |
@@ -16,31 +16,30 @@
 </details> 
 -->
 
-```
+```C
 typedef struct
 {
-   char Programming_Languages[2];
-   Char Embedded_development_softwares[];
-   char PCB_design_softwares[2];
-   char Books[5];
+   char Programming_Languages[];
+   Char Embedded_software_development_tools[];
+   char PCB_design_softwares[];
+   char Knowhow[];
 } Portfolio;
 
 int main (void)
 {
-   Portfolio MwangiAlex;
-   uint32_t * arrPL=NULL;
-   arrPL=& MwangiAlex.Programming_Languages[0];
-
-  uint32_t * arrEDS=NULL;
-  arrEDS=& MwangiAlex.Embedded_development_softwares[0];
-
-  uint32_t * arrPDS=NULL;
-  arrPDS=& MwangiAlex.PCB_design_softwares[0];
-
-  uint32_t * arrB=NULL;
-  arrB=& MwangiAlex.Books[0];
-
-   MwangiAlex= {}
+ Portfolio MwangiAlex;
+ uint32_t * arrPL=NULL;
+ arrPL=& MwangiAlex.Programming_Languages[0];
+       arrPL[3]= {Embedded C, C++, LaTEX, MATLAB};  
+ uint32_t * arrEDS=NULL;
+ arrEDS=& MwangiAlex.Embedded_software_development_tools[0];
+       arrEDS[2]={Keil_uvision, STM32CubeIDE};    
+ uint32_t * arrPDS=NULL;
+ arrPDS=& MwangiAlex.PCB_design_softwares[0];
+       arrPDS[2]={Kicad, Flux};
+ uint32_t * arrB=NULL;
+ arrK=& MwangiAlex.Knowhow[0];
+       arrK[]={ARM Cortex M4, STM32 Architecture, };
 }
 ```
 
