@@ -3,8 +3,8 @@
 <h1>Hi 👋, Mwangi here </h1>
 
 <details>
-<summary> My portfolio in Embedded C code </summary>
-<!--  
+<summary> My portfolio </summary>
+   
 |              **Skill/Tool/Language**                     | **Rank / 10** |
 |-----------------------------------------------------:|-----------     |
 | PCB design:Kicad, Flux                               | 6              |
@@ -14,7 +14,8 @@
 | ST Architecture/Cortex M4                            | 5              |
 | LaTEX                                                | 4              |
 </details> 
--->
+
+Written in Embedded C code, 
 
 ```C
 typedef struct
