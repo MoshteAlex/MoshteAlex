@@ -29,7 +29,7 @@ int main (void)
 {
  Portfolio MwangiAlex;
 
- MwangiAlex.Education = Bsc Electrical and Electronics Engineering /*DeKUT*/
+ MwangiAlex.Education = Bsc Electrical & Electronics Engineering /*DeKUT*/
 
  uint32_t * arrPL=NULL;
  arrPL=& MwangiAlex.Programming_Languages[0];
