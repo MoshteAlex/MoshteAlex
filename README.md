@@ -18,7 +18,7 @@
 
 ```C
 typedef struct
-{
+{  char Education;
    char Programming_Languages[];
    char Embedded_software_development_tools[];
    char PCB_design_softwares[];
@@ -28,6 +28,9 @@ typedef struct
 int main (void)
 {
  Portfolio MwangiAlex;
+
+ MwangiAlex.Education = Bsc_Electrical&Electronics_Engineering
+
  uint32_t * arrPL=NULL;
  arrPL=& MwangiAlex.Programming_Languages[0];
          arrPL[3]= {Embedded_C, C++, LaTEX, MATLAB};  
