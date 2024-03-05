@@ -29,7 +29,7 @@ int main (void)
 {
  Portfolio MwangiAlex;
 
- MwangiAlex.Education = Bsc_Electrical_and_Electronics_Engineering /*DeKUT*/
+ MwangiAlex.Education = Bsc Electrical and Electronics Engineering /*DeKUT*/
 
  uint32_t * arrPL=NULL;
  arrPL=& MwangiAlex.Programming_Languages[0];
@@ -37,7 +37,7 @@ int main (void)
 
  uint32_t * arrESDT=NULL;
  arrEDS=& MwangiAlex.Embedded_software_development_tools[0];
-         arrESDT[2]={Keil uvision, STM32CubeIDE};
+         arrESDT[2]={Keil uvision, STM32 Cube IDE};
 
  uint32_t * arrPDS=NULL;
  arrPDS=& MwangiAlex.PCB_design_softwares[0];
