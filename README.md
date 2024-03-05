@@ -17,9 +17,6 @@
 
 -->
 
-
-Written in Embedded C code, 
-
 ```C
 typedef struct
 {
