@@ -30,16 +30,19 @@ int main (void)
  Portfolio MwangiAlex;
  uint32_t * arrPL=NULL;
  arrPL=& MwangiAlex.Programming_Languages[0];
-       arrPL[3]= {Embedded C, C++, LaTEX, MATLAB};  
+         arrPL[3]= {Embedded_C, C++, LaTEX, MATLAB};  
+
  uint32_t * arrEDS=NULL;
  arrEDS=& MwangiAlex.Embedded_software_development_tools[0];
-       arrEDS[2]={Keil_uvision, STM32CubeIDE};    
+         arrEDS[2]={Keil_uvision, STM32CubeIDE};
+
  uint32_t * arrPDS=NULL;
  arrPDS=& MwangiAlex.PCB_design_softwares[0];
-       arrPDS[2]={Kicad, Flux};
+         arrPDS[2]={Kicad, Flux};
+
  uint32_t * arrB=NULL;
  arrK=& MwangiAlex.Knowhow[0];
-       arrK[]={ARM Cortex M4, STM32 Architecture, };
+         arrK[2]={ARM_Cortex_M4, STM32_Architecture, };
 }
 ```
 
