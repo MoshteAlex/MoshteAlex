@@ -15,9 +15,7 @@
 | ST Architecture/Cortex M4                            | 5              |
 | LaTEX                                                | 4              |
 -->
-
-Written in embedded C,
-
+Written in C 
 ```C
 typedef struct
 {
