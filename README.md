@@ -33,7 +33,7 @@ int main (void)
 
  uint32_t * arrPL=NULL;
  arrPL=& MwangiAlex.Programming_Languages[0];
-         arrPL[3]= {Embedded C, C++, LaTEX, MATLAB};  
+         arrPL[4]= {Embedded C, C++, LaTEX, MATLAB};  
 
  uint32_t * arrESDT=NULL;
  arrEDS=& MwangiAlex.Embedded_software_development_tools[0];
