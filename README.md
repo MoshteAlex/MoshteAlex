@@ -55,7 +55,7 @@ return 0;
 
 
 ### :man_technologist: Me :
-My focus particularly lies in embedded software development, IoT, PCB design, Embedded AI and their derivatives. I am also a physics enthusiast studying it for fun. I learn skills and create projects that I showcase here and on LinkedIn.
+My focus particularly lies in embedded software/firmware development, IoT, PCB design, embedded AI and their derivatives. I am also a physics enthusiast studying it for fun. I learn skills and create projects that I showcase here and on LinkedIn.
 
 <!-- How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-MwangiAlex-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mwangi-alex/)-->
 
