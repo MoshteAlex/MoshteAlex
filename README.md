@@ -54,7 +54,7 @@ return 0;
 </details> 
 
 
-### :man_technologist: Me :
+### Me :
 My focus particularly lies in hardware engineering, embedded software and firmware development, digital signal processing, microwaves and antennas. I am also a physics enthusiast studying it for fun. I learn skills and create projects that I showcase here and on LinkedIn.
 
 <!-- How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-MwangiAlex-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mwangi-alex/)-->
