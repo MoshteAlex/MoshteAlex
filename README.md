@@ -58,8 +58,8 @@ return 0;
 My focus particularly lies in hardware engineering, embedded software and firmware development, digital signal processing, microwaves and antennas. I am also a physics enthusiast studying it for fun. I learn skills and create projects that I showcase here and on LinkedIn.
 
 <!-- How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-MwangiAlex-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mwangi-alex/)-->
- - I’m currently developing firmware for a biosignal data acquisition unit board I designed in Flux.
- - I’m looking to collaborate on any embedded systems project.
+ - I’m currently developing firmware for a biosignal data acquisition unit board I designed in Flux.ai
+ - I’m looking to collaborate on any embedded systems project
  - How to reach me: alexmoshte@gmail.com
 <!--
 <div id="header" align="center">
