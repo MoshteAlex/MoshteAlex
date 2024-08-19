@@ -55,7 +55,7 @@ return 0;
 
 
 ### Me :
-My focus particularly lies in hardware engineering, embedded software and firmware development, digital signal processing, microwaves and antennas. I am also a physics enthusiast studying it for fun. I learn skills and create projects that I showcase here and on LinkedIn.
+My focus particularly lies in hardware engineering, embedded software and firmware development, digital signal processing, microwaves, antennas and control systems. I am also a physics enthusiast studying it for fun. I learn skills and create projects that I showcase here and on LinkedIn.
 
 <!-- How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-MwangiAlex-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mwangi-alex/)-->
  - I’m currently developing firmware for a biosignal data acquisition unit board I designed in Flux.ai
