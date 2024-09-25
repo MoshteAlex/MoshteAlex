@@ -16,7 +16,7 @@
 | LaTEX                                                | 4              |
 -->
 
-``` C++
+<!-- ``` C++
 typedef struct
 {  char Education;
    char Programming_Languages[];
@@ -50,7 +50,7 @@ int main (void)
 return 0;
 }
 ```
-⬆️ Embedded C
+⬆️ Embedded C -->
 </details> 
 
 
