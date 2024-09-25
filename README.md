@@ -6,14 +6,14 @@
 <summary> My portfolio </summary>
 
 
-|              **Skill/Tool/Language**                     | **Rank / 10** |
+|              **Skills and Knowhow**                  |    **/ 10**    |
 |-----------------------------------------------------:|-----------     |
-| PCB design:Kicad, Flux                               | 6              |
-| Embedded C/ C++                                      | 4              |
-| STM32 Cube IDE                                       | 3              |
-| Keil uVisison                                        | 1              |
-| ST Architecture/Cortex M4                            | 5              |
-| LaTEX                                                | 4              |
+| PCB design: Kicad, Flux                              | 7              |
+| Firmware development; STM32Cube IDE, Keil uVision    | 5              |
+| DSP; Filter design                                   | 6              | 
+| ST Architecture/Cortex M4                            | 6              |
+| Documentation; LaTEX                                 | 4              |
+
 
 
 <!-- ``` C++
