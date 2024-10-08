@@ -1,6 +1,6 @@
 
 
-<h1>Hi 👋, Mwangi here </h1>
+<h1>Hi 👋 </h1>
 
 <details>
 <summary> My portfolio </summary>
