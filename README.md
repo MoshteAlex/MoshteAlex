@@ -10,7 +10,7 @@
 |-----------------------------------------------------:|-----------     |
 | PCB design: Kicad, Flux                              | 7              |
 | Firmware development; STM32Cube IDE, Keil uVision    | 5              |
-| DSP; Filter design                                   | 6              | 
+| DSP; Filter design, Feature extraction                                  | 6              | 
 | ST Architecture/Cortex M4                            | 6              |
 | Documentation; LaTEX                                 | 4              |
 
