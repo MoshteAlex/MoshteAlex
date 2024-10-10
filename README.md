@@ -4,18 +4,16 @@
 
 
 
-  <summary><b>📚 Skills and Knowhow</b></summary>
+  <summary><b>Skills and Knowhow</b></summary>
 
-  | **Skill**                                        | **Proficiency (/10)** |
-  |--------------------------------------------------|-----------------------|
-  | **PCB Design:** Kicad, Flux                      | 7                     |
-  | **Firmware Development:** STM32Cube IDE, Keil uVision | 5                 |
-  | **Digital Signal Processing (DSP):** Filter Design, Feature Extraction | 6 |
-  | **Microcontroller Architectures:** ST Architecture / Cortex M4 | 6       |
-  | **Documentation:** LaTeX                         | 4                     |
+| **Skills**                                        | **Proficiency (/10)** |
 
-
-
+|--------------------------------------------------|-----------------------|
+| **PCB Design:** Kicad, Flux                      | 7                     |
+| **Firmware Development:** STM32Cube IDE, Keil uVision | 5                 |
+| **Digital Signal Processing (DSP):** Filter Design, Feature Extraction | 6 |
+| **Microcontroller Architectures:** ST Architecture / Cortex M4 | 6       |
+| **Documentation:** LaTeX                         | 4                     |
 
 
 
