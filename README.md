@@ -1,6 +1,6 @@
 
 
-<h1>Hi 👋 </h1>
+<! <h1>Hi 👋 </h1> -->
 
 
   <summary><b>📚 Skills and Knowhow</b></summary>
