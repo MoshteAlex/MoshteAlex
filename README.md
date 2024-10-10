@@ -11,7 +11,7 @@
   | **PCB Design:** Kicad, Flux                      | 7                     |
   | **Firmware Development:** STM32Cube IDE, Keil uVision | 5                 |
   | **Digital Signal Processing (DSP):** Filter Design, Feature Extraction | 6 |
-  | **Microcontroller Architectures:** ST Architecture / Cortex M4 | 6       |
+  | **Microcontroller Architectures:** Cortex M4/M7 | 6       |
   | **Documentation:** LaTeX                         | 4                     |
 
 
