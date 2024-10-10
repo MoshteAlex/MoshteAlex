@@ -3,16 +3,18 @@
 <h1>Hi 👋 </h1>
 
 <details>
-<summary> My portfolio </summary>
+  <summary><b>📚 Skills and Knowhow</b></summary>
 
+  | **Skill**                                        | **Proficiency (/10)** |
+  |--------------------------------------------------|-----------------------|
+  | **PCB Design:** Kicad, Flux                      | 7                     |
+  | **Firmware Development:** STM32Cube IDE, Keil uVision | 5                 |
+  | **Digital Signal Processing (DSP):** Filter Design, Feature Extraction | 6 |
+  | **Microcontroller Architectures:** ST Architecture / Cortex M4 | 6       |
+  | **Documentation:** LaTeX                         | 4                     |
 
-|              **Skills and Knowhow**                  |    **/ 10**    |
-|-----------------------------------------------------:|-----------     |
-| PCB design: Kicad, Flux                              | 7              |
-| Firmware development; STM32Cube IDE, Keil uVision    | 5              |
-| DSP; Filter design, Feature extraction                                  | 6              | 
-| ST Architecture/Cortex M4                            | 6              |
-| Documentation; LaTEX                                 | 4              |
+</details>
+
 
 
 
