@@ -3,8 +3,6 @@
 <!-- <h1>Hi </h1> -->
 
 
-
- <details>
   <summary><b>📚 Skills and Knowhow</b></summary>
 
   | **Skill**                                        | **Proficiency (/10)** |
@@ -14,8 +12,6 @@
   | **Digital Signal Processing (DSP):** Filter Design, Feature Extraction | 6 |
   | **Microcontroller Architectures:** ST Architecture / Cortex M4 | 6       |
   | **Documentation:** LaTeX                         | 4                     |
-
-</details>
 
 
 
