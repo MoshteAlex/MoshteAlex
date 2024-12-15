@@ -55,7 +55,7 @@ return 0;
 
 
 <!-- ### Me :-->
-My focus particularly lies in building embedded systems. I am also a Physics enthusiast studying it for fun. I learn skills and create projects that I showcase here, on twitter and on LinkedIn.
+My focus particularly lies in building embedded systems. I am also a Physics enthusiast studying it for fun. I learn skills and create projects that I showcase here, on X and on LinkedIn.
 
 <!-- How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-MwangiAlex-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mwangi-alex/)-->
  - I currently tinker at Veno Autobotics
