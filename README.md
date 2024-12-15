@@ -7,11 +7,11 @@
 
   | **Skill**                                        | **Proficiency (/10)** |
   |--------------------------------------------------|-----------------------|
-  | **PCB Design:** Altium, Kicad, Flux              | 6                     |
-  | **Frameworks:** STM32Cube, ESP IDF, Arduino      | 5                     |
-  | **Topics** DSP, Control engineering, RF, IoT,    | 6                     |
+  | **PCB Design:** Altium, Kicad, Flux              | 4,6,7                 |
+  | **Frameworks:** STM32Cube, ESP IDF, Arduino      | 6,3,5                 |
+  | **Topics:** DSP, Control engineering, RF, IoT,   | 6,5,4,3               |
   | **Architectures:** Cortex M4                     | 6                     |
-  | **Documentation:** LaTeX, Word                   | 4                     |
+  | **Documentation:** LaTeX, Word                   | 4,6                     |
 
 
 
